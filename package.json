@@ -1,0 +1,41 @@
+{
+  "name": "react-native-animated-timeline",
+  "version": "1.0.0",
+  "description": "Simple component for animated timelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaueDM/react-native-animated-timeline.git"
+  },
+  "author": "Kauê da Maia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaueDM/react-native-animated-timeline/issues"
+  },
+  "homepage": "https://github.com/kaueDM/react-native-animated-timeline#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "animated",
+    "android",
+    "ios",
+    "component"
+  ],
+  "dependencies": {
+    "react-native-animatable": "^1.2.4",
+    "styled-components": "^3.2.6"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.0",
+    "react": "^16.3.2",
+    "react-native": "^0.55.4"
+  },
+  "peerDependencies": {
+    "react": ">= 15.x",
+    "react-native": ">= 0.47.x"
+  }
+}
